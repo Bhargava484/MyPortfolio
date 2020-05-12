@@ -1,0 +1,46 @@
+    body {
+        background-color: whitesmoke;
+    }
+    
+    h1,
+    h2 {
+        color: orangered;
+    }
+    
+    h3 {
+        color: blueviolet;
+        text-align: left;
+    }
+    
+    img {
+        display: block;
+        margin-left: left;
+        margin-right: left;
+        width: 15%;
+    }
+    
+    div,
+    td {
+        text-align: center;
+        width: 35%;
+        border: 2px solid forestgreen;
+        margin-left: 40%;
+        margin-right: 30%;
+    }
+    
+    th {
+        background-color: #4CAF50;
+        color: whitesmoke;
+    }
+    
+    .button {
+        font: bold 18px calibri;
+        text-decoration: white;
+        background-color: palevioletred;
+        color: white;
+        padding: 2px 6px 2px 6px;
+        border-top: 1px solid #CCCCCC;
+        border-right: 1px solid #333333;
+        border-bottom: 1px solid #333333;
+        border-left: 1px solid #CCCCCC;
+    }
